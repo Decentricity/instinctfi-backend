@@ -1,0 +1,4 @@
+name = "instictfi-dlob-proxy"
+main = "src/worker.js"
+compatibility_date = "2025-01-20"
+account_id = "7b91733cd68e58905cbd2170208d2872"
